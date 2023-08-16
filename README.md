@@ -1,3 +1,3 @@
 # Ecommerce - FullStack# ecommerce-FullStack
-# vendas-fullstack
-# projeto-nest-vendas
+
+# backend -> projeto-nest-vendas
